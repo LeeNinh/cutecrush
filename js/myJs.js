@@ -5,8 +5,8 @@ const textConfig = {
   text4: "Nếu cậu không trả lời mà thoát ra tức là muốn làm người yêu tớ rùi đó nha :v",
   text5: "Không thích nhé :))",
   text6: "Ờ :))",
-  text7: "Vậy làm người yêu tớ nhía ^^",
-  text8: "Bỏ qua bước này nhé :v ",
+  text7: "",
+  text8: "Nhấn tiếp nhé :v ",
   text9: "",
   text10: "^^",
   text11:
@@ -113,7 +113,7 @@ $(document).ready(function () {
       html: true,
       width: 900,
       padding: "3em",
-      html: "<input type='text' class='form-control' id='txtReason'  placeholder='Whyyy'>",
+      html: "",
       background: '#fff url("img/iput-bg.jpg")',
       backdrop: `
                     rgba(0,0,123,0.4)
